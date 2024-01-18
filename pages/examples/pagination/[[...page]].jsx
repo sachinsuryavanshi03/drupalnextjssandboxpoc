@@ -15,7 +15,7 @@ import styles from './pagination.module.css';
 // const drupalUrl = DRUPAL_URL
 
 // Example paginated data set
-const drupalUrl = 'https://dev-ds-demo.pantheonsite.io';
+const drupalUrl = 'https://dev-drupal10sandboxpoc.pantheonsite.io';
 
 export default function PaginationExampleTemplate({ data, footerMenu }) {
 	// configurable itemsPerPage

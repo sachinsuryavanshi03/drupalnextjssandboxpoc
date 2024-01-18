@@ -36,10 +36,6 @@ export default function ExamplesPageTemplate({ footerMenu }) {
 							confirms that Next.js is able to make authenticated requests to
 							Drupal&apos;s API.
 						</li>
-						<li>
-							<Link href="/examples/pagination">Pagination</Link> - a paginated
-							list with a large dataset.
-						</li>
 					</ul>
 				</div>
 			</section>
